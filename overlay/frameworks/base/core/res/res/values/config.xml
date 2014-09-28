@@ -31,6 +31,9 @@
 
     <integer name="config_keyboardBrightnessSettingDefault">1</integer>
 
+    <!-- Set to true to add links to Cell Broadcast app from Settings and MMS app. -->
+    <bool name="config_cellBroadcastAppLinks">true</bool>
+
     <!-- Indicate whether the lid state impacts the accessibility of
         the physical keyboard. 0 means it doesn't, 1 means it is accessible
         when the lid is open, 2 means it is accessible when the lid is

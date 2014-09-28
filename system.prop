@@ -1,6 +1,9 @@
 # system.prop for apexqtmo
 #
 
+# lcd density
+ro.sf.lcd_density=182
+
 # audio
 persist.audio.fluence.mode=none
 persist.audio.handset.mic=analog

@@ -1,2 +1,1 @@
-add_lunch_combo cm_apexqtmo-eng
-
+add_lunch_combo liquid_apexqtmo-userdebug

@@ -46,7 +46,9 @@ PRODUCT_COPY_FILES += \
     device/samsung/apexqtmo/keyboard/sec_keypad.kcm:system/usr/keychars/sec_keypad.kcm \
     device/samsung/apexqtmo/keyboard/sec_keypad.idc:system/usr/idc/sec_keypad.idc \
     device/samsung/apexqtmo/keyboard/sec_keys.kl:system/usr/keylayout/sec_keys.kl \
-    device/samsung/apexqtmo/keyboard/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl
+    device/samsung/apexqtmo/keyboard/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl \
+    device/samsung/apexqtmo/keyboard/libjni_latinime.so:system/lib/libjni_latinime.so \
+    device/samsung/apexqtmo/keyboard/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so
 
 PRODUCT_PACKAGES += \
     ApexQKeypad
