@@ -26,11 +26,6 @@
 
     <bool name="config_enableWifiDisplay">true</bool>
 
-    <!-- We dont have different firmware for wifi modes, prevent reloading it -->
-    <bool name="config_wifiApFirmwareReload">false</bool>
-
-    <integer name="config_keyboardBrightnessSettingDefault">1</integer>
-
     <!-- Set to true to add links to Cell Broadcast app from Settings and MMS app. -->
     <bool name="config_cellBroadcastAppLinks">true</bool>
 
@@ -92,8 +87,5 @@
 
     <!-- We dont have different firmware for wifi modes, prevent reloading it -->
     <bool name="config_wifiApFirmwareReload">true</bool>
-
-    <!-- Device supports LED flashlight -->
-    <bool name="config_enableTorch">true</bool>
 
 </resources>
