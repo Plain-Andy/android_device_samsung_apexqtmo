@@ -85,7 +85,4 @@
         <item>"bt-pan"</item>
     </string-array>
 
-    <!-- We dont have different firmware for wifi modes, prevent reloading it -->
-    <bool name="config_wifiApFirmwareReload">true</bool>
-
 </resources>
