@@ -1,32 +1,32 @@
 [
   {
     "remote": "gh",
-    "repository": "RelayTest/android_device_samsung_msm8960-common",
+    "repository": "PlainApexqtmo/android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common"
-    "revision": "kitkat"
+    "revision": "plain"
   },
   {
     "remote": "gh",
-    "repository": "RelayTest/android_device_samsung_qcom-common",
+    "repository": "PlainApexqtmo/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common"
-    "revision": "kitkat"
+    "revision": "plain"
   },
   {
     "remote": "gh",
-    "repository": "RelayTest/android_hardware_samsung",
+    "repository": "PlainApexqtmo/android_hardware_samsung",
     "target_path": "hardware/samsung"
-    "revision": "kitkat"
+    "revision": "plain"
   },
   {
     "remote": "gh",
-    "repository": "RelayTest/B14CKB1RD_Kernel_D2",
+    "repository": "PlainApexqtmo/B14CKB1RD_Kernel_D2",
     "target_path": "kernel/samsung/d2"
-    "revision": "kitkat"
+    "revision": "plain"
   },
   {
     "remote": "gh",
-    "repository": "RelayTest/proprietary_vendor_samsung",
+    "repository": "PlainApexqtmo/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "revision": "kitkat"
+    "revision": "plain"
    }
 ]
