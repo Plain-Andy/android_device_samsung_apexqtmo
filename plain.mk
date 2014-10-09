@@ -9,6 +9,9 @@ $(call inherit-product, vendor/plain/config/gsm.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/plain/config/nfc_enhanced.mk)
 
+# Aroma installer device overlay
+$(call inherit-product, device/samsung/apexqtmo/aroma/aroma.mk)
+
 PRODUCT_NAME := plain_apexqtmo
 PRODUCT_DEVICE := apexqtmo
 PRODUCT_BRAND := samsung
