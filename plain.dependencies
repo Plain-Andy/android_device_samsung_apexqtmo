@@ -7,14 +7,14 @@
   },
   {
     "remote": "gh",
-    "repository": "PlainApexqtmo/android_device_samsung_qcom-common",
-    "target_path": "device/samsung/qcom-common",
-    "revision": "plain"
-  },
-  {
-    "remote": "gh",
     "repository": "PlainApexqtmo/B14CKB1RD_Kernel_D2",
     "target_path": "kernel/samsung/d2",
     "revision": "plain"
+  },
+  {
+    "remote:		"gh",
+    "repository":	"TheMuppets/proprietary_vendor_samsung",
+    "target_path":	"proprietary/vendor/samsung",
+    "revision":		"cm-11.0"
   }
 ]
